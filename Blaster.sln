@@ -1,7 +1,7 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{995589C8-422C-15B7-DFDA-85D93216A18F}") = "Blaster", "Assembly-CSharp.csproj", "{C38B52CE-2DAA-18B0-F9CE-C11EA476A38F}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{C38B52CE-2DAA-18B0-F9CE-C11EA476A38F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
