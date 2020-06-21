@@ -1,6 +1,6 @@
 WebGL
 PlayerPath?
-C:/Users/Stefan Urosevic/Documents/Git Repos/Blaster/build
+C:/Users/Stefan Urosevic/Documents/Git Repos/Blaster/dist
 SceneListBegin?
 Assets/Scenes/Test Scene.unity
 SceneListEnd?
